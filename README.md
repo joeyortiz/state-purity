@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/senguyen1011/state-purity)
+
 ## The State Purity Test
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and inspired by the [Rice Purity Test](http://ricepuritytest.com/). All questions were taken directly from the Rice Purity Test. Please, this was just a project to learn React, do not view me as immature for making this.
